@@ -248,7 +248,7 @@ module.exports = {
   'NR.1': require('./NR.1.json'),
   'NR.2': require('./NR.2.json'),
   'NR': require('./NR.json'),
-  'NUL': require('./NUL.json'),
+  'NUL': require('./winNUL.json'),
   'OCD.1': require('./OCD.1.json'),
   'OCD.2': require('./OCD.2.json'),
   'OCD': require('./OCD.json'),

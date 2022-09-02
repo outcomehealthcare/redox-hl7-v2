@@ -24,7 +24,7 @@ module.exports = {
   'CM1': require('./CM1.json'),
   'CM2': require('./CM2.json'),
   'CNS': require('./CNS.json'),
-  'CON': require('./CON.json'),
+  'CON': require('./winCON.json'),
   'CSP': require('./CSP.json'),
   'CSR': require('./CSR.json'),
   'CSS': require('./CSS.json'),
