@@ -122,3 +122,6 @@ Examples of custom schemas can be found here:
 
 # HL7 Trademark and IP Statement
 HL7® and HEALTH LEVEL SEVEN® are trademarks owned by Health Level Seven International. HL7® and HEALTH LEVEL SEVEN® are registered with the United States Patent and Trademark Office.
+
+
+# Modified NUL and Con files to be windows compatible 
